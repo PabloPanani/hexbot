@@ -31,7 +31,7 @@ function draw() {
   //get the data!
   NOOPBOT_FETCH({
     API: 'hexbot',
-    count: 900,
+    count: 1000,
     width: appWidth,
     height: appHeight,
     seed: 'FF7F50,FFD700,FF8C00',
